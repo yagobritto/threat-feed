@@ -12,4 +12,4 @@ tu.feyhaum.com
 icy-lab-0431.guilherme-
 brenmayasociados.com
 keitarosofts.com
-hostphpwindowsappsconecting.ydns.eu:8015
+hostphpwindowsappsconecting.ydns.eu
